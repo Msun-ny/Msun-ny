@@ -11,7 +11,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 
 ### 📱 Frontend
-![React]https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
 
 ## ✨ My GitHub Stats
@@ -20,8 +20,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msun-ny&layout=compact&theme=radical" width="48%" />
 </p>
 
-## ✍️ Blog & Links
-- [Tech Blog](https://velog.io/@suhyun224/posts)
+## ✍️ Blog
+- [sunny.log](https://velog.io/@suhyun224/posts)
 
 ---
 
