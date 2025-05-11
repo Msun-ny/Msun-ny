@@ -16,8 +16,8 @@
 
 ## ✨ My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Msun-ny&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msun-ny&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Msun-ny&show_icons=true&theme=radical" width="48%" heigt="20%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msun-ny&layout=compact&theme=radical" width="48%" heigt="20%" />
 </p>
 
 ## ✍️ Blog
